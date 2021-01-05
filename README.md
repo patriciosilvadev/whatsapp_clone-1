@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+the app is built with firebase as backend. Demo app at :https://whatsapp-clone-e3089.web.app/
 
 ## Available Scripts
 
